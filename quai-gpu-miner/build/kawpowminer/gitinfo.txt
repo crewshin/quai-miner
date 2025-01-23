@@ -1,0 +1,3 @@
+v0.2.0-0-ga37e4e8a4c18dea387b3ebe6ff4334e47df91722
+main
+https://github.com/dominant-strategies/quai-gpu-miner
