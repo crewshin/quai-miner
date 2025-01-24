@@ -3,7 +3,7 @@ cloreai/ubuntu20.04-jupyter
 
 apt-get update
 apt install rsync proxychains tmux -y
-ssh -D 1080 -f -N clore@67.184.249.15 -p 46307
+ssh -D 1080 -f -N clore@67.184.249.15 -p 46383
 git clone https://github.com/dkreder/quai.git
 cd quai
 cat proxychains.conf > /etc/proxychains.conf
