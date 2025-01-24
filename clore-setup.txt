@@ -11,4 +11,4 @@ tmux
 rm -rf /etc/apt/sources.list.d/cuda-ubuntu2004-x86_64.list
 apt update
 apt install -y cuda-toolkit-12-4
-./output/quai-gpu-miner -U -P stratum://69.245.237.11:3333
+./output/quai-gpu-miner -U -P stratum://67.184.249.15:3333
